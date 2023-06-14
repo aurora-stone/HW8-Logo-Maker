@@ -41,7 +41,7 @@ MIT
 www.github.com/aurora-stone
 
 ## Video Link
-[Link to Video](https://drive.google.com/file/d/1D-XsjtTFKZB2RRXxxYNYt6aJp3vAqyES/view)
+[Link to Video](https://drive.google.com/file/d/10nVy9vD5HgPw2ZoCjwdw7AtX1q0UxA-J/view)
 
 ## Screenshot 
 ![Image](./screenshot.png)
